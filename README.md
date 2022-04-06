@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nícolas Vinícius Lobo Morais</h1>
-<h3 align="center">A student of systems analysis and development from Brazill</h3>
+<h3 align="center">A student of systems analysis and development from Brazil</h3>
 
 - 📫 How to reach me **nicolaslobovm@gmail.com**
 
