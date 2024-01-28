@@ -32,4 +32,4 @@ Se você quiser conversar ou colaborar em algum projeto, pode me encontrar nas s
 
 ![Nicolas GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolaslob&show_icons=true&theme=transparent)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolaslob&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolaslob&layout=donut&theme=transparent)](https://github.com/nicolaslob/github-readme-stats)
