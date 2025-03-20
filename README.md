@@ -2,7 +2,7 @@
 
 - Nícolas
 - Estudante de Análise e Desenvolvimento de Sistemas
-- Estagiário na Prefeitura de Joinville, com foco em análise de dados
+- Supervisor de Sistemas Prefeitura de Joinville
 - Interesse por cybersegurança
 
 # Ferramentas e Linguagens
