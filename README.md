@@ -1,8 +1,8 @@
 # Sobre Mim
 
 - Nícolas
-- Estudante de Análise e Desenvolvimento de Sistemas
-- Supervisor de Sistemas Prefeitura de Joinville
+- Estudante de Análise e Desenvolvimento de Sistemas na UDESC
+- Coordenador de Dados Prefeitura de Joinville
 - Interesse por cybersegurança
 
 # Ferramentas e Linguagens
